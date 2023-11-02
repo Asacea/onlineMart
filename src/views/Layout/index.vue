@@ -1,8 +1,7 @@
 <template>
-    App
+    home
     <RouterView/>
 </template>
 <script setup>
-// import Test from './views/Test.vue'
 import { RouterView } from 'vue-router';
 </script>
