@@ -7,7 +7,6 @@
         <HomeHot></HomeHot>
         <HomeNew></HomeNew>
     </div>
-    
     <HomeProduct></HomeProduct>
 </template>
 <script setup>

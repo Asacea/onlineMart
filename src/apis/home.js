@@ -9,3 +9,8 @@ export function getBannerAPI (){
         url:'/home/new'
     })
  }
+ export function getGoodsAPI(){
+    return httpInstance({
+        url:'/home/goods'
+    })
+ }

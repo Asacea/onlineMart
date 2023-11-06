@@ -29,6 +29,8 @@ defineProps({
     position: relative;
     left: 10%;
     .container{
+        position: relative;
+        left: 0;
         margin: 0;
         .head {
             padding: 40px 0;

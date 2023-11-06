@@ -7,7 +7,7 @@
                     <div class="layer">
                         <ul>
                             <li v-for="i in item.goods" :key="i.id">
-                                <RouterLink :to="`/detail/${i.id}`">
+                                <RouterLink to="/">
                                     <img :src="i.picture" alt="" />
                                     <div class="info">
                                         <p class="name ellipsis-2">
